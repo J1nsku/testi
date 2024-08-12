@@ -10,3 +10,8 @@ kskslsslla_
 * toka
 * kolmas
 *
+```
+git status
+git add
+git commit
+```

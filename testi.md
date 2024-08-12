@@ -4,8 +4,8 @@
 
 wisoslnwnsamalalala
 kskslsslla
-lslalssl
 
-* djkslsalal
-* nsanamam
-* alslslal
+* eka
+* toka
+* kolmas
+*
